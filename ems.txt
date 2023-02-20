@@ -1,0 +1,5 @@
+John Jacob^123-45-6789^(123)456-7890^jjacob@jjacob.com^98765
+Jingle Heimer^987-65-4321^(987)654-3210^jheimer@jheimer.com^32165
+Betty Boop^78945698^456352^bboop@Bboop.com^89523
+Elmer Fudd^545366^55566^flena^8522
+Bugs Bunny^74556^552125^bbunny^789562
